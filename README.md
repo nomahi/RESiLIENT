@@ -5,9 +5,9 @@ Ronald C. Kessler, Helen Christensen, Alexis Whitton, Inbal Nahum-Shani, Wolfgan
 
 ---
 
-This repository contains the R codes used for generating the results of the article "Five cognitive and behavioural skills to treat subthreshold depression among adults in the community: A master study of smartphone CBT involving four 2x2 factorial randomised trials (RESiLIENT trial)" (Furukawa et al., 2024+). The protocol paper and statistical analysis plan document are published as Furukawa et al. (2023) and Noma et al. (2024).
+This repository contains the R codes used for the statistical analyses of the article "Five cognitive and behavioural skills to treat subthreshold depression among adults in the community: A master study of smartphone CBT involving four 2x2 factorial randomised trials (RESiLIENT trial)" (Furukawa et al., 2024+). The protocol paper and statistical analysis plan document are published as Furukawa et al. (2023) and Noma et al. (2024).
 
-The "Codes" folder of this repository contains:  
+The "Codes" directory of this repository contains:  
 -- `MMRM_Tables_2_and_3a.r`: R code to generate the results in Tables 2 and 3a;  
 -- `MMRM_Tables_3b.r`: R code to generate the results in Table 3b;  
 -- `MMRM_Tables_3c.r`: R code to generate the results in Table 3c;  
