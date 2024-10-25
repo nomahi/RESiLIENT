@@ -8,12 +8,27 @@ Ronald C. Kessler, Helen Christensen, Alexis Whitton, Inbal Nahum-Shani, Wolfgan
 This repository contains the R codes used for the statistical analyses of the article "Five cognitive and behavioural skills to treat subthreshold depression among adults in the community: A master study of smartphone CBT involving four 2x2 factorial randomised trials (RESiLIENT trial)" (Furukawa et al., 2024+). The protocol paper and statistical analysis plan document are published as Furukawa et al. (2023) and Noma et al. (2024).
 
 The "Codes" directory of this repository contains:  
--- `MMRM_Tables_2_and_3a.r`: R code to generate the results in Tables 2 and 3a;  
--- `MMRM_Tables_3b.r`: R code to generate the results in Table 3b;  
--- `MMRM_Tables_3c.r`: R code to generate the results in Table 3c;  
--- `MMRM_Tables_4.r`: R code to generate the results in Table 4;  
--- `MMRM_Tables_5a.r`: R code to generate the results for 6 weeks in Table 5;  
--- `MMRM_Tables_5b.r`: R code to generate the results for 26 weeks in Table 5.
+-- `Tables_2_and_3a.r`: R code to generate the results in Tables 2 and 3a;  
+-- `Tables_3b.r`: R code to generate the results in Table 3b;  
+-- `Tables_3c.r`: R code to generate the results in Table 3c;  
+-- `Tables_4.r`: R code to generate the results in Table 4;  
+-- `Tables_5a.r`: R code to generate the results for 6 weeks in Table 5;  
+-- `Tables_5b.r`: R code to generate the results for 26 weeks in Table 5;  
+-- `E-Tables_4.r`: R code to generate the results in Table 4 of Extended Data;  
+-- `E-Tables_5.r`: R code to generate the results in Table 5 of Extended Data;  
+-- `E-Tables_6.r`: R code to generate the results in Table 6 of Extended Data;  
+-- `E-Tables_7.r`: R code to generate the results in Table 7 of Extended Data;  
+-- `S-Tables_1.r`: R code to generate the results in Table S1 of Supplementary Data;  
+-- `S-Tables_2.r`: R code to generate the results in Table S2 of Supplementary Data;  
+-- `S-Tables_3.r`: R code to generate the results in Table S3 of Supplementary Data;  
+-- `S-Tables_4.r`: R code to generate the results in Table S4 of Supplementary Data;  
+-- `S-Tables_5.r`: R code to generate the results in Table S5 of Supplementary Data;  
+-- `S-Tables_6.r`: R code to generate the results in Table S6 of Supplementary Data;  
+-- `S-Tables_7.r`: R code to generate the results in Table S7 of Supplementary Data;  
+-- `S-Tables_8a.r`: R code to generate the results in Table S8a of Supplementary Data;  
+-- `S-Tables_8b.r`: R code to generate the results in Table S8b of Supplementary Data;  
+-- `S-Tables_9.r`: R code to generate the results in Table S9 of Supplementary Data;  
+-- `S-Tables_10.r`: R code to generate the results in Table S10 of Supplementary Data.
 
 For the MMRM (mixed-effects models for repeated measurements) analyses, we used the R packages mmrm ver. 0.3.11 (Sabanes Bove et al., 2024) and emmeans ver. 1.9.0 (Lenth et al., 2023).
 
