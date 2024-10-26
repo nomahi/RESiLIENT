@@ -9,26 +9,26 @@ This repository contains the R codes used for the statistical analyses of the ar
 
 The "Codes" directory of this repository contains:  
 -- `Tables_2_and_3a.r`: R code to generate the results in Tables 2 and 3a;  
--- `Tables_3b.r`: R code to generate the results in Table 3b;  
--- `Tables_3c.r`: R code to generate the results in Table 3c;  
--- `Tables_4.r`: R code to generate the results in Table 4;  
--- `Tables_5a.r`: R code to generate the results for 6 weeks in Table 5;  
--- `Tables_5b.r`: R code to generate the results for 26 weeks in Table 5;  
--- `E-Tables_4.r`: R code to generate the results in Table 4 of Extended Data;  
--- `E-Tables_5.r`: R code to generate the results in Table 5 of Extended Data;  
--- `E-Tables_6.r`: R code to generate the results in Table 6 of Extended Data;  
--- `E-Tables_7.r`: R code to generate the results in Table 7 of Extended Data;  
--- `S-Tables_1.r`: R code to generate the results in Table S1 of Supplementary Data;  
--- `S-Tables_2.r`: R code to generate the results in Table S2 of Supplementary Data;  
--- `S-Tables_3.r`: R code to generate the results in Table S3 of Supplementary Data;  
--- `S-Tables_4.r`: R code to generate the results in Table S4 of Supplementary Data;  
--- `S-Tables_5.r`: R code to generate the results in Table S5 of Supplementary Data;  
--- `S-Tables_6.r`: R code to generate the results in Table S6 of Supplementary Data;  
--- `S-Tables_7.r`: R code to generate the results in Table S7 of Supplementary Data;  
--- `S-Tables_8a.r`: R code to generate the results in Table S8a of Supplementary Data;  
--- `S-Tables_8b.r`: R code to generate the results in Table S8b of Supplementary Data;  
--- `S-Tables_9.r`: R code to generate the results in Table S9 of Supplementary Data;  
--- `S-Tables_10.r`: R code to generate the results in Table S10 of Supplementary Data.
+-- `Table_3b.r`: R code to generate the results in Table 3b;  
+-- `Table_3c.r`: R code to generate the results in Table 3c;  
+-- `Table_4.r`: R code to generate the results in Table 4;  
+-- `Table_5a.r`: R code to generate the results for 6 weeks in Table 5;  
+-- `Table_5b.r`: R code to generate the results for 26 weeks in Table 5;  
+-- `E-Table_4.r`: R code to generate the results in Table 4 of Extended Data;  
+-- `E-Table_5.r`: R code to generate the results in Table 5 of Extended Data;  
+-- `E-Table_6.r`: R code to generate the results in Table 6 of Extended Data;  
+-- `E-Table_7.r`: R code to generate the results in Table 7 of Extended Data;  
+-- `S-Table_1.r`: R code to generate the results in Table S1 of Supplementary Data;  
+-- `S-Table_2.r`: R code to generate the results in Table S2 of Supplementary Data;  
+-- `S-Table_3.r`: R code to generate the results in Table S3 of Supplementary Data;  
+-- `S-Table_4.r`: R code to generate the results in Table S4 of Supplementary Data;  
+-- `S-Table_5.r`: R code to generate the results in Table S5 of Supplementary Data;  
+-- `S-Table_6.r`: R code to generate the results in Table S6 of Supplementary Data;  
+-- `S-Table_7.r`: R code to generate the results in Table S7 of Supplementary Data;  
+-- `S-Table_8a.r`: R code to generate the results in Table S8a of Supplementary Data;  
+-- `S-Table_8b.r`: R code to generate the results in Table S8b of Supplementary Data;  
+-- `S-Table_9.r`: R code to generate the results in Table S9 of Supplementary Data;  
+-- `S-Table_10.r`: R code to generate the results in Table S10 of Supplementary Data.
 
 For the MMRM (mixed-effects models for repeated measurements) analyses, we used the R packages mmrm ver. 0.3.11 (Sabanes Bove et al., 2024) and emmeans ver. 1.9.0 (Lenth et al., 2023).
 
