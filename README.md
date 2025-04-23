@@ -35,7 +35,7 @@ For the MMRM (mixed-effects models for repeated measurements) analyses, we used 
 ---
 
 **References**:  
-Furukawa, T. A., Tajika, A., Toyomoto, R., et al. (2025). Cognitive behavioral therapy skills via a smartphone app for subthreshold depression among adults in the community: the RESiLIENT randomized controlled trial. *Nature Medicine*, DOI: 10.1038/s41591-025-03639-1.  
+Furukawa, T. A., Tajika, A., Toyomoto, R., et al. (2025). Cognitive behavioral therapy skills via a smartphone app for subthreshold depression among adults in the community: the RESiLIENT randomized controlled trial. *Nature Medicine*, DOI: 10.1038/s41591-025-03639-1. (https://doi.org/10.1038/s41591-025-03639-1)
 Furukawa, T. A., Tajika, A., Sakata, M., et al. (2023). Four 2x2 factorial trials of smartphone CBT to reduce subthreshold depression and to prevent new depressive episodes among adults in the community-RESiLIENT trial (Resilience Enhancement with Smartphone in LIving ENvironmenTs): a master protocol. *BMJ Open* **13**, e067850. (https://doi.org/10.1136/bmjopen-2022-067850)  
 Noma, H., Furukawa, T. A., Tajika, A., et al. (2024). RESiLIENT (Resilience Enhancement with Smartphone in LIving ENvironmenTs) Trial: The Statistical Analysis Plan. medRxiv 2024.03.16.24304261. (https://doi.org/10.1101/2024.03.16.24304261)  
 Sabanes Bove, D., Li, L., Dedic, J., et al. (2024). mmrm: Mixed Models for Repeated Measures. R package version 0.3.11. (https://doi.org/10.32614/CRAN.package.mmrm)  
